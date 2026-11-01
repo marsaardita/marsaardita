@@ -51,5 +51,5 @@ I'm interested in developing web applications, managing databases, and exploring
 ### 🤝 Let's Connect!
 
 - GitHub: [@marsaardita](https://github.com/marsaardita)
-- LinkedIn: (https://www.linkedin.com/in/marsaardita/)
+- LinkedIn: https://www.linkedin.com/in/marsaardita/
 - Portfolio: ...
